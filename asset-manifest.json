@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dino-game/static/css/main.7c602651.css",
+    "main.js": "/dino-game/static/js/main.b4f4b91f.js",
+    "index.html": "/dino-game/index.html",
+    "main.7c602651.css.map": "/dino-game/static/css/main.7c602651.css.map",
+    "main.b4f4b91f.js.map": "/dino-game/static/js/main.b4f4b91f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c602651.css",
+    "static/js/main.b4f4b91f.js"
+  ]
+}
